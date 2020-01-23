@@ -14,6 +14,10 @@ h3 {
     margin-bottom: 0px;
 }
 
+li {
+
+}
+
 #Header {
     width: 500px;
     margin-left: auto;
@@ -42,6 +46,10 @@ h3 {
     border: solid 8px black;
     background-color: #8E41D5;
     float: left;
+}
+
+#LeftNav img {
+    
 }
 
 #LeftNav ul{
@@ -74,7 +82,5 @@ h3 {
 }
 
 a {
-    color: white; 
-    font-weight: bold; 
-    font-size: 24px;
+    color: white; font-weight: bold; font-size: 24px;
 }
